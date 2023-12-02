@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\gonza\Desktop\MAVI - TP Final\Proyecto de VS\Proyecto de VS\Player.h(34,61): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+C:\Users\gonza\Desktop\MAVI - TP Final\Proyecto de VS\Proyecto de VS\Player.h(34,44): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+C:\Users\gonza\Desktop\MAVI - TP Final\Proyecto de VS\Proyecto de VS\GameController.h(121,38): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\gonza\Desktop\MAVI - TP Final\Proyecto de VS\Proyecto de VS\GameController.h(126,42): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\gonza\Desktop\MAVI - TP Final\Proyecto de VS\Proyecto de VS\main.cpp(9,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Proyecto de VS.vcxproj -> C:\Users\gonza\Desktop\MAVI - TP Final\Proyecto de VS\x64\Debug\Proyecto de VS.exe
